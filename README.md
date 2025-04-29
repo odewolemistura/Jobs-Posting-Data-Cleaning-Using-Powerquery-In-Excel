@@ -25,6 +25,10 @@ This cleaning process is the main objective of this project and it was done with
 - I removed rows withs unknown employee size
 - I Removed state from the location column extract using conditional formatting and split
 - I Rearranged columns to make it related and reader friendly
+  ## Excerpt of the uncleaned data
+![Book1 - Excel 4_28_2025 5_19_50 PM](https://github.com/user-attachments/assets/9ba97fcd-c9d7-45dd-ac03-b7b37180fcd9)
+   ## Excerpt of the cleaned data
+![Book1 - Excel 4_28_2025 5_16_14 PM](https://github.com/user-attachments/assets/04e7a260-ad49-476e-86e2-46203d3c2629)
   ## Insights Generation
 ### Salary by job role
 - I created a new table by referencing the cleaned
