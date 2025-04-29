@@ -23,18 +23,21 @@ This cleaning process is the main objective of this project and it was done with
 - I created a new table by referencing the cleaned
 - I selected the columns needed to generate my insight
 - I used the group by function to calculate the average minimum and maximum salary
+- I added detailed sub-tables (AllRole columns) for deeper drill-downs
 ### Salary by company size
 - I created a new table by referencing the cleaned
 - I selected the columns needed to generate my insight
 - I used the group by function to calculate the average minimum and maximum salary by company size
+-  I added detailed sub-tables (AllRole columns) for deeper drill-downs
 ### Salary by state
 - The state full name is not present in the the source table but in another table (state mapping table) so i merged the cleaned source table and the state mapping table using merge queries in power query. i merged the two tables using the state name abbrevation which is present in both tables. 
 - I referenced the merged table and selected the needed columns to generate this insight.
 - For those working in states not included or remote workers, i used conditional column to name them 'others'.
+- I added detailed sub-tables (AllRole columns) for deeper drill-downs
 ### Salary by size and role type
-- referenced the cleaned table
-- select the columns needed to generate my insight
-- used the group by  function to calculate the average min and max salary by size
+- I referenced the cleaned table
+- I selected the columns needed to generate my insight
+- I used the group by function to calculate the average min and max salary by size
 ### Key Learnings
 Data cleaning is the backbone of reliable data analysis.
 - clear cleaning workflow prevents errors later.
