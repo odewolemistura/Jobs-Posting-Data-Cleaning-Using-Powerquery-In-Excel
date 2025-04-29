@@ -1,12 +1,19 @@
 # Jobs-Posting-Data-Cleaning-Using-Power Query-In-Excel
+## Table of contents
+- [Project Overview](project-overview)
+- [Data Source](data-source)
+- [Tool](tool)
+- [Data Cleaning Methodology](data-cleaning-methodology)
+- [Insights Generation](insights-generation)
+- [Key Learnings](key-learnings)
 ## Project Overview
 This project demonstrates the crucial role of clean data in analytical decision-making and spotting trends. Working with real-world job postings for roles like Data Analyst, Data Scientist, Machine Learning Engineer, and Data Engineer, the objective was to transform messy, inconsistent data into a structured format that supports accurate salary insights.
 By organizing and standardizing the data across job roles, company sizes, and locations, the project enabled the discovery of meaningful patterns and comparisons. It reinforces a key principle: clean data is the foundation for reliable insights and smarter business decisions.
 ## Data Source
 The dataset contains the following columns: Job Title,Salary Estimate,Job Description,Rating Company Name, Location, Headquarters, Company Size, Year Founded, Type of Ownership, Industry, Sector, Revenue, Competitors.
-## Tools
+## Tool
 Microsoft Excel Power Query
-## Data Cleaning
+## Data Cleaning Methodology
 This cleaning process is the main objective of this project and it was done with the specific goal of getting accurate salary insight which answers specific business questions.
 - I duplicated the original dataset and began cleaning with the duplicate table so that i can always refer to the source data in case of neccesities.
 - I checked for duplicate rows and removed them to ensure accurate insight generation
