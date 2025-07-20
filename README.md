@@ -9,7 +9,7 @@
 ## Project Overview
 This project demonstrates the crucial role of clean data in analytical decision-making and spotting trends. Working with real-world job postings for roles like Data Analyst, Data Scientist, Machine Learning Engineer, and Data Engineer, the objective was to transform messy, inconsistent data into a structured format that supports accurate salary insights.
 By organizing and standardizing the data across job roles, company sizes, and locations, the project enabled the discovery of meaningful patterns and comparisons. It reinforces a key principle: clean data is the foundation for reliable insights and smarter business decisions.
-## Data Source
+## Dataset Overview
 The dataset contains the following columns: Job Title,Salary Estimate,Job Description,Rating Company Name, Location, Headquarters, Company Size, Year Founded, Type of Ownership, Industry, Sector, Revenue, Competitors.
 ## Tool
 Microsoft Excel Power Query
